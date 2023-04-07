@@ -1,0 +1,1 @@
+export const kingAddress = ["","0x6b61A71684944BEd9Ca31322317BC45AE429Ab84","","",""];
